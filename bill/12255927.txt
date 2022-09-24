@@ -1,0 +1,23 @@
+'
+		 Apple-Inventory
+	 Phone NO. 987654321 , Delhi-125001
+=============================================
+Customer Name: Hakim
+Ph No. : hakimkhan2390@gmail.com
+Bill No.:12255927			Date: 12/05/2022
+=============================================
+Product Name			QTY	Price
+=============================================
+		
+ Registers			1	Rs.5.0
+ FortuneBesan			1	Rs.93.0
+ KajalPromo(Black,0.7g)			1	Rs.199.0
+ AASHIRVAAD(5 kg)
+			1	Rs.236.0'
+=============================================
+Bill Amount 				Rs.533.0
+GST				Rs.95.94
+Net Pay				Rs.628.94
+
+
+		

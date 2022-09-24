@@ -1,0 +1,21 @@
+'
+		 Apple-Inventory
+	 Phone NO. 987654321 , Delhi-125001
+=============================================
+Customer Name: Hakim
+Ph No. : hakimkhan2390@gmail.com
+Bill No.:12255443			Date: 12/05/2022
+=============================================
+Product Name			QTY	Price
+=============================================
+		
+ Lipstick 			1	Rs.50.0
+ Facewash			5	Rs.445.0
+ FortuneBesan			1	Rs.93.0'
+=============================================
+Bill Amount 				Rs.588.0
+GST				Rs.105.84
+Net Pay				Rs.693.84
+
+
+		

@@ -1,0 +1,27 @@
+'
+		 Apple-Inventory
+	 Phone NO. 987654321 , Delhi-125001
+=============================================
+Customer Name: xfdg
+Ph No. : 465
+Bill No.:10263548			Date: 10/05/2022
+=============================================
+Product Name			QTY	Price
+=============================================
+		
+ KolamRice(10kg)
+			1	Rs.731.0
+ AASHIRVAAD(5 kg)
+			1	Rs.236.0
+ PillsburyRava(500 g)
+			1	Rs.33.0
+ AASHIRVAAD			1	Rs.60.0
+ DaawatBasmati(5kg)
+			1	Rs.360.0'
+=============================================
+Bill Amount 				Rs.1420.0
+GST				Rs.255.6
+Net Pay				Rs.1675.6
+
+
+		

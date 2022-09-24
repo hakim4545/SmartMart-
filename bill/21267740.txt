@@ -1,0 +1,23 @@
+'
+		 Apple-Inventory
+	 Phone NO. 987654321 , Delhi-125001
+=============================================
+Customer Name: Wasim
+Ph No. : shaikhvi786@gmail.com
+Bill No.:21267740			Date: 21/05/2022
+=============================================
+Product Name			QTY	Price
+=============================================
+		
+ FortuneBesan			1	Rs.93.0
+ DaawatBasmati(5kg)
+			1	Rs.360.0
+ Lipstick 			10	Rs.500.0
+ KajalPromo(Black,0.7g)			1	Rs.199.0'
+=============================================
+Bill Amount 				Rs.1152.0
+GST				Rs.207.36
+Net Pay				Rs.1359.3600000000001
+
+
+		

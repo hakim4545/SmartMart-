@@ -1,0 +1,19 @@
+'
+		 Apple-Inventory
+	 Phone NO. 987654321 , Delhi-125001
+=============================================
+Customer Name: Ram
+Ph No. : hakimkhan2390@gmail.com
+Bill No.:12263276			Date: 12/05/2022
+=============================================
+Product Name			QTY	Price
+=============================================
+		
+ Registers			1	Rs.5.0'
+=============================================
+Bill Amount 				Rs.5.0
+GST				Rs.0.9
+Net Pay				Rs.5.9
+
+
+		

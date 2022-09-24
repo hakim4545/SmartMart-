@@ -1,0 +1,22 @@
+'
+		 Apple-Inventory
+	 Phone NO. 987654321 , Delhi-125001
+=============================================
+Customer Name: Rocky
+Ph No. : 312456879
+Bill No.:8202230			Date: 08/05/2022
+=============================================
+Product Name			QTY	Price
+=============================================
+		
+ Fortune Besan  (1 kg)
+			2	Rs.186.0
+ AASHIRVAAD  Sharbati Atta,  (5 kg)
+			2	Rs.472.0'
+=============================================
+Bill Amount 				Rs.658.0
+GST				Rs.118.44
+Net Pay				Rs.776.44
+
+
+		

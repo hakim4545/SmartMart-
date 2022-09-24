@@ -1,0 +1,22 @@
+'
+		 Apple-Inventory
+	 Phone NO. 987654321 , Delhi-125001
+=============================================
+Customer Name: Subh Gill 
+Ph No. : 45614326589
+Bill No.:8215724			Date: 08/05/2022
+=============================================
+Product Name			QTY	Price
+=============================================
+		
+ AASHIRVAAD  Sharbati Atta(5 kg)
+			1	Rs.236.0
+ Daawat Sup.Basmati(5 kg)
+			1	Rs.360.0'
+=============================================
+Bill Amount 				Rs.596.0
+GST				Rs.107.28
+Net Pay				Rs.703.28
+
+
+		

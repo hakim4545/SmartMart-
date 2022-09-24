@@ -1,0 +1,21 @@
+'
+		 Apple-Inventory
+	 Phone NO. 987654321 , Delhi-125001
+=============================================
+Customer Name: Hakim
+Ph No. : hakimkhan2390@gmail.com
+Bill No.:12257155			Date: 12/05/2022
+=============================================
+Product Name			QTY	Price
+=============================================
+		
+ Lipstick 			1	Rs.50.0
+ DaawatBasmati(5kg)
+			50	Rs.18000.0'
+=============================================
+Bill Amount 				Rs.18050.0
+GST				Rs.3249.0
+Net Pay				Rs.21299.0
+
+
+		

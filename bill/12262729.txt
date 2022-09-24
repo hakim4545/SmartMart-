@@ -1,0 +1,21 @@
+'
+		 Apple-Inventory
+	 Phone NO. 987654321 , Delhi-125001
+=============================================
+Customer Name: Rahul
+Ph No. : hakimkhan2390@gmail.com
+Bill No.:12262729			Date: 12/05/2022
+=============================================
+Product Name			QTY	Price
+=============================================
+		
+ KolamRice(10kg)
+			1	Rs.731.0
+ Hair Oil 			1	Rs.35.0'
+=============================================
+Bill Amount 				Rs.766.0
+GST				Rs.137.88
+Net Pay				Rs.903.88
+
+
+		

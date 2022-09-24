@@ -1,0 +1,20 @@
+'
+		 Apple-Inventory
+	 Phone NO. 987654321 , Delhi-125001
+=============================================
+Customer Name: Wasim
+Ph No. : shaikhvi786@gmail.com
+Bill No.:21267222			Date: 21/05/2022
+=============================================
+Product Name			QTY	Price
+=============================================
+		
+ KolamRice(10kg)
+			10	Rs.7310.0'
+=============================================
+Bill Amount 				Rs.7310.0
+GST				Rs.1315.8
+Net Pay				Rs.8625.8
+
+
+		

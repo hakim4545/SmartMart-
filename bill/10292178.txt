@@ -1,0 +1,19 @@
+'
+		 Apple-Inventory
+	 Phone NO. 987654321 , Delhi-125001
+=============================================
+Customer Name: fsad
+Ph No. : hakimsggs@gmail.com
+Bill No.:10292178			Date: 10/08/2022
+=============================================
+Product Name			QTY	Price
+=============================================
+		
+ FortuneBesan			1	Rs.93.0'
+=============================================
+Bill Amount 				Rs.93.0
+GST				Rs.16.74
+Net Pay				Rs.109.74
+
+
+		

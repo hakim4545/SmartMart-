@@ -1,0 +1,20 @@
+'
+		 Apple-Inventory
+	 Phone NO. 987654321 , Delhi-125001
+=============================================
+Customer Name: Maam 
+Ph No. : abu.tamboli06@gmail.com
+Bill No.:26195772			Date: 26/05/2022
+=============================================
+Product Name			QTY	Price
+=============================================
+		
+ Hair Oil 			3	Rs.105.0
+ Facewash			10	Rs.890.0'
+=============================================
+Bill Amount 				Rs.995.0
+GST				Rs.179.1
+Net Pay				Rs.1174.1
+
+
+		

@@ -1,0 +1,19 @@
+'
+		 Apple-Inventory
+	 Phone NO. 987654321 , Delhi-125001
+=============================================
+Customer Name: jf
+Ph No. : hakimsggs@gmail.com
+Bill No.:10287944			Date: 10/08/2022
+=============================================
+Product Name			QTY	Price
+=============================================
+		
+ PVC Wires			1	Rs.250.0'
+=============================================
+Bill Amount 				Rs.250.0
+GST				Rs.45.0
+Net Pay				Rs.295.0
+
+
+		

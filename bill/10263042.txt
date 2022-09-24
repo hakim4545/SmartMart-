@@ -1,0 +1,21 @@
+'
+		 Apple-Inventory
+	 Phone NO. 987654321 , Delhi-125001
+=============================================
+Customer Name: fds
+Ph No. : 654
+Bill No.:10263042			Date: 10/05/2022
+=============================================
+Product Name			QTY	Price
+=============================================
+		
+ FortuneBesan			1	Rs.93.0
+ PillsburyRoastedRavaSooji(500 g)
+			1	Rs.33.0'
+=============================================
+Bill Amount 				Rs.126.0
+GST				Rs.22.68
+Net Pay				Rs.148.68
+
+
+		

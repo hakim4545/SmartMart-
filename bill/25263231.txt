@@ -1,0 +1,22 @@
+'
+		 Apple-Inventory
+	 Phone NO. 987654321 , Delhi-125001
+=============================================
+Customer Name: Noman Shaikh
+Ph No. : 2018bce004@sggs.ac.in
+Bill No.:25263231			Date: 25/05/2022
+=============================================
+Product Name			QTY	Price
+=============================================
+		
+ Fundation 			20	Rs.4000.0
+ BB Cream			45	Rs.13320.0
+ AASHIRVAAD(5 kg)
+			1	Rs.236.0'
+=============================================
+Bill Amount 				Rs.17556.0
+GST				Rs.3160.08
+Net Pay				Rs.20716.08
+
+
+		

@@ -1,0 +1,22 @@
+'
+		 Apple-Inventory
+	 Phone NO. 987654321 , Delhi-125001
+=============================================
+Customer Name: Pasha
+Ph No. : hakimkhan2390@gmail.com
+Bill No.:12262278			Date: 12/05/2022
+=============================================
+Product Name			QTY	Price
+=============================================
+		
+ PVC Wires			1	Rs.250.0
+ KolamRice(10kg)
+			1	Rs.731.0
+ AASHIRVAAD			1	Rs.60.0'
+=============================================
+Bill Amount 				Rs.1041.0
+GST				Rs.187.38
+Net Pay				Rs.1228.38
+
+
+		

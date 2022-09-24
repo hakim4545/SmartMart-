@@ -1,0 +1,21 @@
+'
+		 Apple-Inventory
+	 Phone NO. 987654321 , Delhi-125001
+=============================================
+Customer Name: 654
+Ph No. : jk
+Bill No.:11195342			Date: 11/05/2022
+=============================================
+Product Name			QTY	Price
+=============================================
+		
+ KajalPromo(Black,0.7g)			1	Rs.199.0
+ PillsburyRava(500 g)
+			1	Rs.33.0'
+=============================================
+Bill Amount 				Rs.232.0
+GST				Rs.41.76
+Net Pay				Rs.273.76
+
+
+		

@@ -1,0 +1,21 @@
+'
+		 Apple-Inventory
+	 Phone NO. 987654321 , Delhi-125001
+=============================================
+Customer Name: Hakim
+Ph No. : hakimkhan2390@gmail.com
+Bill No.:12256558			Date: 12/05/2022
+=============================================
+Product Name			QTY	Price
+=============================================
+		
+ Registers			1	Rs.5.0
+ Aurdino UNO 			1	Rs.350.0
+ Facewash			1	Rs.89.0'
+=============================================
+Bill Amount 				Rs.444.0
+GST				Rs.79.92
+Net Pay				Rs.523.92
+
+
+		

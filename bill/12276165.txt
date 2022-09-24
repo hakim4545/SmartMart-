@@ -1,0 +1,20 @@
+'
+		 Apple-Inventory
+	 Phone NO. 987654321 , Delhi-125001
+=============================================
+Customer Name: Raghu
+Ph No. : hakimkhan2390@gmail.com
+Bill No.:12276165			Date: 12/05/2022
+=============================================
+Product Name			QTY	Price
+=============================================
+		
+ Lipstick 			150	Rs.7500.0
+ Deo Spray			20	Rs.5000.0'
+=============================================
+Bill Amount 				Rs.12500.0
+GST				Rs.2250.0
+Net Pay				Rs.14750.0
+
+
+		
